@@ -60,6 +60,32 @@ Give executing permission to group, user, and other users and display how exactl
 
 ![permission](Project_1_images/permission.jpg)
 
+## Running of the scripts to display  the output of it.
+
+![Run_it](Project_1_images/Run_it.jpg)
+
+## Accepting the user's input and use it for the next scripts.
+
+This is for the full multiplication table.
+
+Example: when the user entered number 4 for the multiplication table.
+
+![Run_the_first](Project_1_images/Run_the_first.jpg)
+
+This is for the partial multiplication table.
+
+Example: if the user entered 8 for the multiplication table.
+          Entered 7 has the startqing number
+          Entered 3 has the ending number
+
+![run_partial](Project_1_images/run_partial.jpg)
+
+This illustrates, in a situation whereby the user entered a wrong or void input. 
+
+![invalid](Project_1_images/invalid.jpg)
+
+
+
 
 
 
