@@ -28,4 +28,32 @@ Readable Output:** Display the multiplication table in a clear and readable form
 
 ![Input_from_user](Project_1_images/Input_from_user.jpg)
 
+# Variable: Initializing i with 1
+
+![variable](Project_1_images/variable.jpg)
+
+# Asking if the user wants a full or partial table
+
+This is where you get to give the user an option of choosing either a full multiplication table or a partial multiplication table.
+
+## Example of a full multiplication table for user's input
+
+![full_table](Project_1_images/full_table.jpg)
+
+## Example of a partial multiplication table for user's input
+
+![partial_table](Project_1_images/partial_table.jpg)
+
+## This is the last part of the script.
+
+just in case the user inputed a wrong or invalid option in a any of the requisition aspect, the user will be directed or instructed to run the script again and choose from the available options.
+
+As it is shown below.
+
+![finale](Project_1_images/finale.jpg)
+
+
+
+
+
 
