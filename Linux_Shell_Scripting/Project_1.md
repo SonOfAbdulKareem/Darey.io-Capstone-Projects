@@ -70,7 +70,7 @@ This is for the full multiplication table.
 
 Example: when the user entered number 4 for the multiplication table.
 
-![Run_the_first](Project_1_images/Run_the_first.jpg)
+![Run_the_full](Project_1_images/Run_the_full.jpg)
 
 This is for the partial multiplication table.
 
