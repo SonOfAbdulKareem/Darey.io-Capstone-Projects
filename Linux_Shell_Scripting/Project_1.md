@@ -52,6 +52,16 @@ As it is shown below.
 
 ![finale](Project_1_images/finale.jpg)
 
+# The Output of the Scripts.
+
+## Permission
+
+Give executing permission to group, user, and other users and display how exactly it looks.
+
+![permission](Project_1_images/permission.jpg)
+
+
+
 
 
 
