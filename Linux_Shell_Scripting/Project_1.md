@@ -22,4 +22,4 @@ Readable Output:** Display the multiplication table in a clear and readable form
 
 # Shebang and Statement
 
-![shebang_and_statement](Project_1_images/Shebang)
+![shebang_and_statement](Project_1_images/Shebang.jpg)
