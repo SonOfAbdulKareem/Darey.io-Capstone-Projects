@@ -4,7 +4,7 @@
 
 ## Bash Script For Generating a Multiplication Table
 
-## Project Requirements
+## Project Requirements 
 
 **User Input for Number:** The script must first ask the user to input a number for which the multiplication table will be generated.
 
@@ -44,7 +44,7 @@ This is where you get to give the user an option of choosing either a full multi
 
 ![partial_table](Project_1_images/partial_table.jpg)
 
-## This is the last part of the script.
+## This is the last part of the input script.
 
 just in case the user inputed a wrong or invalid option in a any of the requisition aspect, the user will be directed or instructed to run the script again and choose from the available options.
 
