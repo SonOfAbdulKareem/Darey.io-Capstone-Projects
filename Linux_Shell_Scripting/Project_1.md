@@ -4,7 +4,7 @@
 
 ## Bash Script For Generating a Multiplication Table
 
-## Project Requirements 
+## Project Requirements: 
 
 **User Input for Number:** The script must first ask the user to input a number for which the multiplication table will be generated.
 
