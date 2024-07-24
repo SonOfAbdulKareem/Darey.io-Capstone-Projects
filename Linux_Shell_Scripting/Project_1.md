@@ -60,7 +60,7 @@ Give executing permission to group, user, and other users and display how exactl
 
 ![permission](Project_1_images/permission.jpg)
 
-## Running of the scripts to display  the output of it.
+## Running the scripts to display  the output of it.
 
 ![Run_it](Project_1_images/Run_it.jpg)
 
