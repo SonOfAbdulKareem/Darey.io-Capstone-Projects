@@ -22,7 +22,7 @@ Readable Output:** Display the multiplication table in a clear and readable form
 
 # Shebang and Statement
 
-![shebang](Project_1_images/shebang.jpg)
+![shebang](Project_1_images/Shebang.jpg)
 
 # Input from the user
 
