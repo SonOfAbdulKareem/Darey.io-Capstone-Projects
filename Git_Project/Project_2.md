@@ -17,5 +17,9 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 
 ### Creation of a repository on GitHub. ###
 Before we can commence to anything on this project, we need to ascertain a creation of a repository on GitHub to work on, this is more like you creating an account to save or store things into. And how do we do that is as it is shown below;
+![](Project_2_images/1CLICK_3_LINES_TOP.jpg)
+
+
+
 
 
