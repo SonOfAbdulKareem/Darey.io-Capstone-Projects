@@ -11,7 +11,6 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 Objectives.
 
 ## Objectives ##
-
 * Practice cloning a repository and working with branches in Git.
 * Gain experience in staging, committing, and pushing changes from both developers.
 
