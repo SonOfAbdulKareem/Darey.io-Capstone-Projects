@@ -2,6 +2,7 @@
 
 ## Capstone Project: Enhancing a Community Library Website. ##
 
+### Background Scenario ###
 You're part of a development team tasked with enhancing the website for the "Greenwood Community Library." The website aims to be more engaging and informative for its visitors. It currently includes basic sections: Home, About Us, Events, and Contact Us.
 
 Your team decides to add a "Book Reviews" section and update the
@@ -12,4 +13,5 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 ## Objectives ##
 * Practice cloning a repository and working with branches in Git.
 * Gain experience in staging, committing, and pushing changes from both developers.
+* Create pull requests and merge them after resolving any potential conflicts.
 
