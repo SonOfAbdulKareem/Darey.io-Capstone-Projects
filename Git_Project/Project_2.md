@@ -8,7 +8,6 @@ Your team decides to add a "Book Reviews" section and update the
 "Events" page to feature upcoming community events.
 
 You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan will focus on adding the "Book Reviews" section, while Jamie will update the "Events" page with new community events.
-Objectives.
 
 ## Objectives ##
 * Practice cloning a repository and working with branches in Git.
