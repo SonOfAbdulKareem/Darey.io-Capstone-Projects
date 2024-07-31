@@ -15,7 +15,7 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 * Gain experience in staging, committing, and pushing changes from both developers.
 * Create pull requests and merge them after resolving any potential conflicts.
 
-  ### Creation of a repository on GitHub. ###
+### Creation of a repository on GitHub. ###
 Before we can commence to anything on this project, we need to ascertain a creation of a repository on GitHub to work on, this is more like you creating an account to save or store things into. And how do we do that is as it is shown below;
 
 
