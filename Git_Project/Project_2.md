@@ -10,8 +10,12 @@ Your team decides to add a "Book Reviews" section and update the
 
 You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan will focus on adding the "Book Reviews" section, while Jamie will update the "Events" page with new community events.
 
-## Objectives ##
+### Objectives ###
 * Practice cloning a repository and working with branches in Git.
 * Gain experience in staging, committing, and pushing changes from both developers.
 * Create pull requests and merge them after resolving any potential conflicts.
+
+  ### Creation of a repository on GitHub. ###
+Before we can commence to anything on this project, we need to ascertain a creation of a repository on GitHub to work on, this is more like you creating an account to save or store things into. And how do we do that is as it is shown below;
+
 
